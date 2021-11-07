@@ -93,7 +93,7 @@ const Survey = () =>{
        
     <div class="button">
       
-      <Link to ={{ pathname : "/workouts", state : {muscle, height, weight}}} class = "getstart">workouts.js</Link>
+      <Link to ={{ pathname : "/workouts", state : {muscle, height, weight}}} class = "getstart">workouts</Link>
      </div>
       
   </body>
